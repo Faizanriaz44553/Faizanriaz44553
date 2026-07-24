@@ -1,9 +1,7 @@
-<!-- Header SVG link -->
-<p align="center">
-  <img src="header.svg" alt="Faizan Riaz Header" width="100%" />
-</p>
+<!-- Is line se apka Header SVG link hoga -->
+# [![Faizan's Header](header.svg)](https://github.com/Faizanriaz44553)
 
-<!-- Developer Card SVG link -->
-<p align="center">
-  <img src="card.svg" alt="Faizan Riaz Developer Card" width="100%" />
-</p>
+<br/>
+
+<!-- Is line se apka Terminal Card SVG link hoga -->
+# [![Faizan's Terminal](terminal.svg)](https://github.com/Faizanriaz44553)
