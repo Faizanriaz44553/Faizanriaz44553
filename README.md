@@ -1,39 +1,117 @@
 <h1 align="center">Hi 👋, I'm Faizan Riaz</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">MERN Stack Developer & Full-Stack Web Engineer 🚀</h3>
 
-<p align="left"> <a href="https://twitter.com/https://x.com/dgumroad44089?t=bwlutbqexqx6yyhjb9i1ha&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/dgumroad44089?t=bwlutbqexqx6yyhjb9i1ha&s=09?logo=twitter&style=for-the-badge" alt="https://x.com/dgumroad44089?t=bwlutbqexqx6yyhjb9i1ha&s=09" /></a> </p>
-
-- 🔭 I’m currently working on [A Full-Featured Blog Application with CRUD Functionality and Firebase Integration](https://joyful-blancmange-233f66.netlify.app/)
-
-- 🌱 I’m currently learning **React.js, with plans to dive into Next.js, Nest.js, Node.js, Express.js, and MongoDB as I continue my journey toward becoming a full-stack developer**
-
-- 👯 I’m looking to collaborate on **Innovative web development projects, particularly those involving front-end technologies like React.js, and back-end development as I expand my skills in full-stack development.**
-
-- 🤝 I’m looking for help with **Mastering advanced back-end technologies like Node.js, Express.js, and MongoDB as I transition towards full-stack development**
-
-- Weather App: A dynamic weather application that provides real-time weather updates for any city worldwide. Users can search for a city or use their current location to get accurate weather information. Built with JavaScript and OpenWeatherMap API. Check it out [https://celebrated-fox-993e27.netlify.app/](https://celebrated-fox-993e27.netlify.app/)
-
-- 💬 Ask me about **Front-end development, creating responsive web designs, or anything related to HTML, CSS, JavaScript, and React.js**
-
-- 📫 How to reach me **You can contact me on WhatsApp at +923198490203 or via email at faizanriaz218@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1SJ0VADK_iAT_aCYRxGqzktoVzd7v-Fon/view?usp=drivesdk](https://drive.google.com/file/d/1SJ0VADK_iAT_aCYRxGqzktoVzd7v-Fon/view?usp=drivesdk)
-
-- ⚡ Fun fact ****⚡ Fun fact:** I think I'm funny and enjoy bringing a touch of humor to my projects and interactions!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https://x.com/dgumroad44089?t=bwlutbqexqx6yyhjb9i1ha&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/dgumroad44089?t=bwlutbqexqx6yyhjb9i1ha&s=09" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/faizan-riaz-773550300?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/faizan-riaz-773550300?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/people/faizan-riaz/61560561183061/?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/people/faizan-riaz/61560561183061/?mibextid=zbwkwl" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D8FF&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;React.js+%7C+Node.js+%7C+Express+%7C+MongoDB;Building+Scalable+Full-Stack+Web+Apps;Founder+%40+eyekart.io" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="#-tech-stack"><b>Tech Stack</b></a> •
+  <a href="#-featured-projects"><b>Projects</b></a> •
+  <a href="#-github-stats"><b>Stats</b></a> •
+  <a href="#-connect-with-me"><b>Contact</b></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faizanriaz44553&show_icons=true&locale=en&layout=compact" alt="faizanriaz44553" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faizanriaz44553&show_icons=true&locale=en" alt="faizanriaz44553" /></p>
+## 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faizanriaz44553&" alt="faizanriaz44553" /></p>
+- 🔭 **Role:** Full-Stack MERN Stack Developer building scalable web applications.
+- ⚡ **Specialization:** React.js, Node.js, Express.js, MongoDB, RESTful APIs & Authentication (JWT/OAuth).
+- 💼 **Entrepreneurship:** Founder & Lead Developer at **[eyekart.io](https://eyekart.io)**.
+- 🌱 **Learning & Growing:** Exploring Next.js, Cloud Services, and Advanced System Architecture.
+- 💬 **Ask me about:** MERN stack integration, State Management (Redux/Context API), and Database Schema Design.
+- 📫 **Contact:** Reach out to me via GitHub or Email.
 
+---
+
+## 🛠️ Tech Stack & Capabilities
+
+### 💻 Frontend Development
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
+
+### ⚙️ Backend & Database
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT" />
+</p>
+
+### 🧰 Tools & Version Control
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🛒 E-Commerce / Business Portal</h3>
+      <p align="center">
+        Full-stack commercial platform with product catalogs, shopping cart, authentication, and customized product specs.
+      </p>
+      <p align="center">
+        <code>React.js</code> • <code>Node.js</code> • <code>Express</code> • <code>MongoDB</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">⚡ MERN Web Application</h3>
+      <p align="center">
+        Full MERN stack app featuring REST APIs, secure user authentication, CRUD operations, and responsive UI.
+      </p>
+      <p align="center">
+        <code>MongoDB</code> • <code>Express</code> • <code>React</code> • <code>Node</code>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Faizanriaz44553&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Faizan's Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizanriaz44553&layout=compact&theme=tokyonight&hide=html" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faizanriaz44553&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/Faizanriaz44553">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://eyekart.io" target="_blank">
+    <img src="https://img.shields.io/badge/Eyekart.io-Visit%20Website-00D8FF?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Website" />
+  </a>
+</p>
+
+<br />
+
+<p align="center">
+  <b>Built with ❤️ by Faizan Riaz</b>
+</p>
