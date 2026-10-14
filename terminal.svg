@@ -93,7 +93,7 @@
           <div class="code">
             <div class="line l1" style="color: #e2e8f0;">const developer = {</div>
             <div class="line l2" style="color: #a3e6d3;">  name: "Faizan Riaz",</div>
-            <div class="line l3" style="color: #a3e6d3;">  role: "Freelance MERN Developer",</div>
+            <div class="line l3" style="color: #a3e6d3;">  role: "Full Stack Developer",</div>
             <div class="line l4" style="color: #a3e6d3;">  specialty: "React SPA &amp; Frontend Focus",</div>
             <div class="line l5" style="color: #93c5fd;">  capableOf: ["SaaS Projects", "E-commerce Platforms"],</div>
             <div class="line l6" style="color: #f59e0b;">  experience: "Competition Websites &amp; MERN Stack",</div>
